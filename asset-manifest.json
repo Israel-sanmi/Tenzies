@@ -1,13 +1,28 @@
 {
   "files": {
-    "main.css": "/Tenzies/static/css/main.57941ac0.css",
-    "main.js": "/Tenzies/static/js/main.b1259341.js",
-    "index.html": "/Tenzies/index.html",
-    "main.57941ac0.css.map": "/Tenzies/static/css/main.57941ac0.css.map",
-    "main.b1259341.js.map": "/Tenzies/static/js/main.b1259341.js.map"
+    "main.css": "/Nerdeye-test/static/css/main.075ba67c.css",
+    "main.js": "/Nerdeye-test/static/js/main.26540719.js",
+    "static/media/jobImg.png": "/Nerdeye-test/static/media/jobImg.14b24165731a76774deb.png",
+    "static/media/heroImg.png": "/Nerdeye-test/static/media/heroImg.58744f540a8f65e9eb21.png",
+    "static/media/shake.png": "/Nerdeye-test/static/media/shake.e49b9f72eaa00fc4b51b.png",
+    "static/media/logistics.png": "/Nerdeye-test/static/media/logistics.50333c2cc0ff28040973.png",
+    "static/media/media.png": "/Nerdeye-test/static/media/media.fe6e5a330e2fa567092b.png",
+    "static/media/ecommerce.png": "/Nerdeye-test/static/media/ecommerce.ae123af6bbdd89e01dfd.png",
+    "static/media/fintech.png": "/Nerdeye-test/static/media/fintech.d9618cd2602f1b3e043f.png",
+    "static/media/mobileFooter.png": "/Nerdeye-test/static/media/mobileFooter.9e00e1b7436e70f7f986.png",
+    "static/media/hospitality.png": "/Nerdeye-test/static/media/hospitality.7ce6c1382f18274ed385.png",
+    "static/media/healthcare.png": "/Nerdeye-test/static/media/healthcare.14ca0db72509b2c504c7.png",
+    "static/media/footer.png": "/Nerdeye-test/static/media/footer.34feb6c7f60a92fcc6b0.png",
+    "static/media/john.png": "/Nerdeye-test/static/media/john.c2f206f719f5c7854ad9.png",
+    "static/media/helen.png": "/Nerdeye-test/static/media/helen.6e85ae469011767f22bd.png",
+    "static/media/dave.png": "/Nerdeye-test/static/media/dave.9db5631e4d6e4135afd5.png",
+    "static/media/backTwo.png": "/Nerdeye-test/static/media/backTwo.7dfe97cc8c5d2693daac.png",
+    "index.html": "/Nerdeye-test/index.html",
+    "main.075ba67c.css.map": "/Nerdeye-test/static/css/main.075ba67c.css.map",
+    "main.26540719.js.map": "/Nerdeye-test/static/js/main.26540719.js.map"
   },
   "entrypoints": [
-    "static/css/main.57941ac0.css",
-    "static/js/main.b1259341.js"
+    "static/css/main.075ba67c.css",
+    "static/js/main.26540719.js"
   ]
 }
